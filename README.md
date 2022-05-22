@@ -62,3 +62,4 @@
 </a>
 </p>
 
+![Snake animation](https://github.com/VeGzx/VeGzx/blob/output/github-contribution-grid-snake.svg)
