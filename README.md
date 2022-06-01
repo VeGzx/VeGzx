@@ -1,6 +1,6 @@
 
-<img align="right" height="600em" src="https://raw.githubusercontent.com/gist/VeGzx/f89b98349d978f2b6cfff606d5bc1231/raw/8885bf8ff55e7f59caa9d3b22f74912d3162ec91/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ruan Natan</h1>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/VeGzx/f89b98349d978f2b6cfff606d5bc1231/raw/8885bf8ff55e7f59caa9d3b22f74912d3162ec91/githubcard.svg"/>
+<h1 align="left">Hi, I'm Ruan Natan <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Front-end Developer Jr. & Instructor focused on helping people start programming!
