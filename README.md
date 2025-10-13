@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React, PHP, Next.js**
 
-- ⚡ Fun fact **5,3 Feet😜**
+
 
 <br><br>
 
